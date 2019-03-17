@@ -7,7 +7,7 @@ layout: default
 
 ## 技術
 ### 言語
-Python / Ruby / JavaScript / TypeScript / Kotlin / Go
+Python / Ruby / JavaScript / TypeScript / Scala / Go
 ### ライブラリ・フレームワーク
 Ruby on Rails / React.js / React Native
 ### その他・興味など
