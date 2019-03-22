@@ -17,6 +17,7 @@ Docker / AWS / CircleCI
 ## 好きなもの
 - [City Pop](https://open.spotify.com/playlist/37i9dQZF1DXdY5tVYFPWb2), AOR, R&B, Disco
 - 焼き鳥
+- ねこぺん日和
 
 ## SNS・ブログなど
 - [GitHub](https://github.com/unirt)
