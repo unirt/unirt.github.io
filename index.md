@@ -11,7 +11,7 @@ Python / Ruby / JavaScript / TypeScript / Scala / Go
 ### ライブラリ・フレームワーク
 Ruby on Rails / React.js / React Native
 ### その他・興味など
-Docker / AWS / CircleCI  
+Docker / AWS / CircleCI / Kubernetes  
 競技プログラミング / 機械学習
 
 ## 好きなもの
