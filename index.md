@@ -12,7 +12,7 @@ Python / Ruby / JavaScript / TypeScript / Scala / Go
 Ruby on Rails / React.js / React Native
 ### その他・興味など
 Docker / AWS / CircleCI / Kubernetes  
-競技プログラミング / 機械学習
+競技プログラミング / 機械学習 / Raspberry Pi
 
 ## 好きなもの
 - [City Pop](https://open.spotify.com/playlist/37i9dQZF1DXdY5tVYFPWb2), AOR, R&B, Disco
