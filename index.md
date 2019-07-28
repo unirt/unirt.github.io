@@ -23,4 +23,5 @@ Docker / AWS / CircleCI / Kubernetes
 ## SNS・ブログなど
 - [GitHub](https://github.com/unirt)
 - [Twitter](https://twitter.com/_unirt)
-- [blog](https://unirt.hatenablog.com/)
+- [Blog](https://unirt.hatenablog.com/)
+- [Kaggle](https://www.kaggle.com/nunirt)
