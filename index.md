@@ -8,4 +8,3 @@ Software Engineer based in Tokyo, Japan.
 - [Twitter](https://twitter.com/_unirt)
 - [Blog](https://unirt.hatenablog.com/)
 - [Qiita](https://qiita.com/unirt)
-<!-- - [Kaggle](https://www.kaggle.com/nunirt) -->
